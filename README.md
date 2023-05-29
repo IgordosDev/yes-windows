@@ -1,2 +1,2 @@
-# nolinux
-The source code of the [yes-linux](https://igordosdev.github.io/yes-linux) site. If you can translate this site to a new language or improve something, please open a merge request.
+# yes-windows
+Исходный код сайта [yes-windows](https://igordosdev.github.io/yes-windows). Если вы можете перевести сайт на другой язык или добавить что-то - пожалуйста, сделайте pull request или напишите issue.
