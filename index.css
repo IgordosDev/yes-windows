@@ -1,5 +1,8 @@
 @import url("https://fonts.googleapis.com/css?family=Lato:300,400,700");
-
+body {
+    background-color: #222222;
+    color: white
+}
 @media(min-width: 1100px) {
     body {
         font-family: lato, ubuntu, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
@@ -52,4 +55,25 @@ footer h3 {
 footer h4 {
     font-weight: 400;
     margin: 0;
+}
+
+blockquote {
+    border-left: 2px solid lightgray;
+    padding-left: 14px;
+}
+
+.igordos {
+    color: limegreen
+}
+
+.jpeg-kun {
+    color: darkviolet
+}
+
+.anonim {
+    color: lightgray
+}
+
+.anfis {
+    color: darkorange
 }
